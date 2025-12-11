@@ -1,0 +1,3 @@
+- [x] Download the Spring Boot starter ZIP from start.spring.io using curl with specified dependencies and parameters (groupId=com.example, artifactId=tp9).
+- [x] Extract the ZIP archive using tar.
+- [ ] Edit src/main/resources/application.properties to add the H2 database configuration as per Step 2.
